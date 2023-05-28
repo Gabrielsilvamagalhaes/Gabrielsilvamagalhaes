@@ -1,4 +1,4 @@
-### I am the dreamy coder🌌✨
+### I'm a curiously coder🌌✨
 ## My name is Gabriel Silva Magalhães🙋‍♂️
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsilvamagalhaes&show_icons=true&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
