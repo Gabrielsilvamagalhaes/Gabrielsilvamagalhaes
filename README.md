@@ -14,8 +14,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilvamagalhaes&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🅗🅘🅖🅗🅛🅘🅖🅗🅣 ​ 🅡🅔🅟🅞🅢🅘🅣🅞🅡🅘🅔🅢📕
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielsilvamagalhaes&repo=Myfirstscodes&theme=tokyonight)](https://github.com/Gabrielsilvamagalhaes/MyfirstsCodes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielsilvamagalhaes&repo=First_programs_arrays&theme=tokyonight)](https://github.com/Gabrielsilvamagalhaes/First_programs_arrays)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielsilvamagalhaes&repo=Chess_System&theme=tokyonight)](https://github.com/Gabrielsilvamagalhaes/Chess_System)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielsilvamagalhaes&repo=My_firsts_codes_onOOP&theme=tokyonight)](https://github.com/Gabrielsilvamagalhaes/My_firsts_codes_onOOP)
 
 ## 🅢🅞🅒🅘🅐🅛 ​ 🅜🅔🅓🅘🅐📱
