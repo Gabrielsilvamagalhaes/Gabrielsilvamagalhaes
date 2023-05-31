@@ -21,4 +21,4 @@
 [<image src = 'https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt= 'Likedin' height= '30'>](https://www.linkedin.com/in/gabriel-smagalhaes32/)
           
           
-
+![snake gif](https://github.com/Gabrielsilvamagalhaes/Gabrielsilvamagalhaes/blob/output/github-contribution-grid-snake.svg)
