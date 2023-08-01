@@ -17,7 +17,7 @@
 
 ## 🅗🅘🅖🅗🅛🅘🅖🅗🅣 ​ 🅡🅔🅟🅞🅢🅘🅣🅞🅡🅘🅔🅢📕
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielsilvamagalhaes&repo=Chess_System&theme=tokyonight)](https://github.com/Gabrielsilvamagalhaes/Chess_System)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielsilvamagalhaes&repo=project-spring3-jpa&theme=tokyonight)]((https://github.com/Gabrielsilvamagalhaes/project-spring3-jpa))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielsilvamagalhaes&repo=project-spring3-jpa&theme=tokyonight)](https://github.com/Gabrielsilvamagalhaes/project-spring3-jpa)
 
 ## 🅢🅞🅒🅘🅐🅛 ​ 🅜🅔🅓🅘🅐📱
 [<image src = 'https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt= 'Likedin' height= '30'>](https://www.linkedin.com/in/gabriel-smagalhaes32/)
