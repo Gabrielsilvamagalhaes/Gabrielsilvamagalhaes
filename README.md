@@ -1,4 +1,4 @@
-## My name is Gabriel Silva Magalhães🙋‍♂️
+# My name is Gabriel Silva Magalhães🙋‍♂️
 ### I'm a curiously coder🌌🕵🏽‍♂✨
 
 
