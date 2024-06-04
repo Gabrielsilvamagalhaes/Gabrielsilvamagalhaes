@@ -1,7 +1,5 @@
-# My name is Gabriel Silva Magalhães🙋‍♂️
-### I'm a curiously coder🌌🕵🏽‍♂✨
-
-
+# I'm a curiously coder🌌🕵🏽‍♂✨
+### <p> Chamo-me Gabriel Silva Magalhães e ingressei na programação em 2023. Desde então, me apaixonei pela área de tecnologia e tenho me dedicado intensamente ao aprendizado e desenvolvimento de habilidades em diversas linguagens e ferramentas. Meu objetivo é continuar evoluindo e me tornar um profissional destacado no setor tecnológico. </p>
 
 
 ## 🅢🅚🅘🅛🅛🅢🐲
