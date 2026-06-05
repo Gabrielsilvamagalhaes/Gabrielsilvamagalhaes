@@ -248,12 +248,10 @@ I'm open to collaborations, opportunities, and knowledge sharing in the tech fie
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gabrielsilvamagalhaes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" alt="GitHub Stats"/>
+
 <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielsilvamagalhaes&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak"/>
 
-<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielsilvamagalhaes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages"/>
 
 <br/>
 
